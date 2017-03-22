@@ -85,13 +85,13 @@ li a {
 }
 
 li a:hover {
-  background-color: #6E5323;
+  background-color: #775832;
   color: white;
 }
 
 footer {
   text-align: center;
-  background-color: #57461A;
+  background-color: #775832;
   position: absolute;
   right: 0;
   bottom: 0;
